@@ -1,6 +1,6 @@
 {
   "name": "@chargerwallet/desktop-bridge-injected",
-  "version": "2.0.0",
+  "version": "4.0.0",
   "keywords": [
     "desktop-bridge-injected"
   ],
@@ -34,7 +34,7 @@
     "electron": "^17.2.0"
   },
   "dependencies": {
-    "@chargerwallet/cross-inpage-provider-core": "^2.0.0",
-    "@chargerwallet/cross-inpage-provider-types": "^2.0.0"
+    "@chargerwallet/cross-inpage-provider-core": "4.0.0",
+    "@chargerwallet/cross-inpage-provider-types": "4.0.0"
   }
 }
